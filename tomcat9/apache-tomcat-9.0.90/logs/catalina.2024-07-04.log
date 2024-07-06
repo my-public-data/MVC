@@ -1,0 +1,485 @@
+04-Jul-2024 01:54:47.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.90
+04-Jul-2024 01:54:47.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Jun 14 2024 14:45:13 UTC
+04-Jul-2024 01:54:47.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.90.0
+04-Jul-2024 01:54:47.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Jul-2024 01:54:47.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+04-Jul-2024 01:54:47.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+04-Jul-2024 01:54:47.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-14.0.1\jdk-14.0.1
+04-Jul-2024 01:54:47.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            14.0.1+7
+04-Jul-2024 01:54:47.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Jul-2024 01:54:47.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:54:47.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Jul-2024 01:54:47.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\logging.properties
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-TRIMQ20
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Jul-2024 01:54:47.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:54:47.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:54:47.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\temp
+04-Jul-2024 01:54:47.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-14.0.1\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.1\bin;;C:\Program Files\JetBrains\PyCharm 2023.1.2\bin;;C:\Program Files\JetBrains\PhpStorm 2023.3.2\bin;;.]
+04-Jul-2024 01:54:47.584 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:54:47.621 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [730] milliseconds
+04-Jul-2024 01:54:47.681 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2024 01:54:47.682 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.90]
+04-Jul-2024 01:54:47.693 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml]
+04-Jul-2024 01:54:47.711 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/spring_course_mvc] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml] has been ignored
+04-Jul-2024 01:54:47.756 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@16612a51]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Алексей\Транзит\2024\07_июль\04_июля\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:54:47.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml] has finished in [118] ms
+04-Jul-2024 01:54:47.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml]
+04-Jul-2024 01:54:47.834 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/VAV_applivation_mvc/] does not meet these criteria and has been changed to [/VAV_applivation_mvc]
+04-Jul-2024 01:54:47.834 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/VAV_applivation_mvc] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml] has been ignored
+04-Jul-2024 01:54:47.943 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@34129c78]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\user\Documents\NetBeansProjects\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:54:48.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml] has finished in [277] ms
+04-Jul-2024 01:54:48.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml]
+04-Jul-2024 01:54:48.100 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/VAV_applivation_mvc_super////] does not meet these criteria and has been changed to [/VAV_applivation_mvc_super///]
+04-Jul-2024 01:54:48.100 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/VAV_applivation_mvc_super///] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml] has been ignored
+04-Jul-2024 01:54:48.109 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3e62d773]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\user\Documents\NetBeansProjects\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:54:48.176 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml] has finished in [78] ms
+04-Jul-2024 01:54:48.177 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\docs]
+04-Jul-2024 01:54:48.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\docs] has finished in [328] ms
+04-Jul-2024 01:54:48.506 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\examples]
+04-Jul-2024 01:54:49.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\examples] has finished in [826] ms
+04-Jul-2024 01:54:49.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\host-manager]
+04-Jul-2024 01:54:49.378 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\host-manager] has finished in [46] ms
+04-Jul-2024 01:54:49.378 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\manager]
+04-Jul-2024 01:54:49.421 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\manager] has finished in [43] ms
+04-Jul-2024 01:54:49.422 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\ROOT]
+04-Jul-2024 01:54:49.451 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\ROOT] has finished in [29] ms
+04-Jul-2024 01:54:49.456 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:54:49.508 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1887] milliseconds
+04-Jul-2024 01:55:46.645 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:46.952 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:58.138 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:58.984 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:59.369 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:59.609 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:55:59.832 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:56:00.489 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:56:00.977 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:56:01.305 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 01:56:02.863 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Jul-2024 01:56:02.864 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:56:02.878 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Jul-2024 01:56:02.909 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:56:02.914 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:58:08.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.90
+04-Jul-2024 01:58:08.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Jun 14 2024 14:45:13 UTC
+04-Jul-2024 01:58:08.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.90.0
+04-Jul-2024 01:58:08.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Jul-2024 01:58:08.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+04-Jul-2024 01:58:08.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+04-Jul-2024 01:58:08.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-14.0.1\jdk-14.0.1
+04-Jul-2024 01:58:08.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            14.0.1+7
+04-Jul-2024 01:58:08.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Jul-2024 01:58:08.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:58:08.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:58:08.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Jul-2024 01:58:08.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\logging.properties
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-TRIMQ20
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Jul-2024 01:58:08.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:58:08.640 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90
+04-Jul-2024 01:58:08.640 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\temp
+04-Jul-2024 01:58:08.649 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-14.0.1\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.1\bin;;C:\Program Files\JetBrains\PyCharm 2023.1.2\bin;;C:\Program Files\JetBrains\PhpStorm 2023.3.2\bin;;.]
+04-Jul-2024 01:58:09.045 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:58:09.089 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [693] milliseconds
+04-Jul-2024 01:58:09.156 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Jul-2024 01:58:09.156 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.90]
+04-Jul-2024 01:58:09.167 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml]
+04-Jul-2024 01:58:09.185 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/spring_course_mvc] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml] has been ignored
+04-Jul-2024 01:58:09.226 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@16612a51]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Алексей\Транзит\2024\07_июль\04_июля\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:58:09.270 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\spring_course_mvc.xml] has finished in [100] ms
+04-Jul-2024 01:58:09.271 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml]
+04-Jul-2024 01:58:09.272 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/VAV_applivation_mvc/] does not meet these criteria and has been changed to [/VAV_applivation_mvc]
+04-Jul-2024 01:58:09.272 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/VAV_applivation_mvc] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml] has been ignored
+04-Jul-2024 01:58:09.281 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@7d61eb55]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\user\Documents\NetBeansProjects\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:58:09.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc.xml] has finished in [307] ms
+04-Jul-2024 01:58:09.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml]
+04-Jul-2024 01:58:09.580 WARNING [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/VAV_applivation_mvc_super////] does not meet these criteria and has been changed to [/VAV_applivation_mvc_super///]
+04-Jul-2024 01:58:09.580 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/VAV_applivation_mvc_super///] in deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml] has been ignored
+04-Jul-2024 01:58:09.586 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:385)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:332)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:878)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:735)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@4ef74c30]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:402)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4120)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4242)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\user\Documents\NetBeansProjects\spring_course_mvc\target\spring_course_mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 41 more
+04-Jul-2024 01:58:09.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\conf\Catalina\localhost\VAV_applivation_mvc_super.xml] has finished in [72] ms
+04-Jul-2024 01:58:09.652 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\docs]
+04-Jul-2024 01:58:09.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\docs] has finished in [333] ms
+04-Jul-2024 01:58:09.986 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\examples]
+04-Jul-2024 01:58:10.534 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\examples] has finished in [548] ms
+04-Jul-2024 01:58:10.535 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\host-manager]
+04-Jul-2024 01:58:10.579 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\host-manager] has finished in [44] ms
+04-Jul-2024 01:58:10.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\manager]
+04-Jul-2024 01:58:10.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\manager] has finished in [47] ms
+04-Jul-2024 01:58:10.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\ROOT]
+04-Jul-2024 01:58:10.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I_am_programmist\apache-tomcat-9.0.90\apache-tomcat-9.0.90\webapps\ROOT] has finished in [37] ms
+04-Jul-2024 01:58:10.672 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Jul-2024 01:58:10.728 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1638] milliseconds
+04-Jul-2024 01:58:22.530 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:22.826 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:23.411 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:23.913 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:24.346 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:24.627 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:25.658 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:26.090 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:26.426 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:26.658 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:26.971 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 01:58:43.280 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:58:43.608 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:58:43.824 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:58:44.144 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:59:57.681 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:59:58.688 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 01:59:59.426 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 02:00:00.072 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 02:00:00.731 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin05] совершил попытку авторизоваться
+04-Jul-2024 02:00:08.538 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:00:16.576 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:00:17.139 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:00:17.913 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:48.648 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:50.892 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:51.169 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/I_am_programmist/apache-tomcat-9.0.90/apache-tomcat-9.0.90/conf/tomcat-users.xml]
+04-Jul-2024 02:03:51.801 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:52.369 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:55.353 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:55.825 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:56.176 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:56.456 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:56.713 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:57.002 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:57.314 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:03:57.618 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:04:55.467 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin] совершил попытку авторизоваться
+04-Jul-2024 02:05:00.553 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin5] совершил попытку авторизоваться
+04-Jul-2024 02:05:00.865 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin5] совершил попытку авторизоваться
+04-Jul-2024 02:05:01.184 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin5] совершил попытку авторизоваться
+04-Jul-2024 02:05:16.387 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 02:05:16.873 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 02:05:17.080 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 02:05:17.280 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
+04-Jul-2024 02:05:17.969 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Заблокированный пользователь [admin10] совершил попытку авторизоваться
